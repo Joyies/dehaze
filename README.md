@@ -3,6 +3,7 @@
 ***Framework***
 1. python 3.6
 2. pytorch 0.4 
+
 ***Python Dependencies***
 1. tensorboardX
 2. scipy
