@@ -1,4 +1,14 @@
-# dehaze
+## dehaze
+### Installation
+***Framework***
+1. python 3.6
+2. pytorch 0.4 
+***Python Dependencies***
+1. tensorboardX
+2. scipy
+3. joblib 
+4. skimage
+5. tqdm 
 ### Train
 * Weights:
   <p>In ITS dataset:https://drive.google.com/open?id=1cnVtQM04ge7GDkPFZsY-oP5uE9HZGIoa</p>
